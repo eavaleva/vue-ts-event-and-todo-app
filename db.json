@@ -1,0 +1,275 @@
+{
+    "events": [
+      {
+        "id": 123,
+        "category": "animal welfare",
+        "title": "Cat Adoption Day",
+        "description": "Find your new feline friend at this event.",
+        "location": "Meow Town",
+        "date": "January 28, 2022",
+        "time": "12:00",
+        "organizer": "Kat Laydee"
+      },
+      {
+        "id": 456,
+        "category": "food",
+        "title": "Community Gardening",
+        "description": "Join us as we tend to the community edible plants.",
+        "location": "Flora City",
+        "date": "March 14, 2022",
+        "time": "10:00",
+        "organizer": "Fern Pollin"
+      },
+      {
+        "id": 789,
+        "category": "sustainability",
+        "title": "Beach Cleanup",
+        "description": "Help pick up trash along the shore.",
+        "location": "Playa Del Carmen",
+        "date": "July 22, 2022",
+        "time": "11:00",
+        "organizer": "Carey Wales"
+      },
+         {
+        "id": 788,
+        "category": "sustainability",
+        "title": "Forest Cleanup",
+        "description": "Help pick up trash in the forest.",
+        "location": "Veluwen",
+        "date": "July 2, 2024",
+        "time": "11:00",
+        "organizer": "Eleonora"
+      },
+      {
+        "id": 564,
+        "category": "food",
+        "title": "Community Gardening",
+        "description": "Join us as we tend to the community edible plants.",
+        "location": "Flora City",
+        "date": "March 14, 2022",
+        "time": "10:00",
+        "organizer": "Fern Pollin"
+      },
+      {
+        "id": 774,
+        "category": "sustainability",
+        "title": "Beach Cleanup",
+        "description": "Help pick up trash along the shore.",
+        "location": "Playa Del Carmen",
+        "date": "July 22, 2022",
+        "time": "11:00",
+        "organizer": "Carey Wales"
+      },
+         {
+        "id": 889,
+        "category": "sustainability",
+        "title": "River Cleanup",
+        "description": "Help pick up trash in the river.",
+        "location": "Veluwen",
+        "date": "July 2, 2024",
+        "time": "11:00",
+        "organizer": "Bogdan"
+      },
+      {
+        "id": 111,
+        "category": "animal welfare",
+        "title": "Dog Adoption Day",
+        "description": "Find your new canine companion at this event.",
+        "location": "Bark Park",
+        "date": "February 14, 2023",
+        "time": "10:00",
+        "organizer": "Woof Johnson"
+      },
+      {
+        "id": 222,
+        "category": "health",
+        "title": "Yoga in the Park",
+        "description": "Join us for a relaxing yoga session in the open air.",
+        "location": "Greenfield Park",
+        "date": "April 20, 2023",
+        "time": "09:00",
+        "organizer": "Lila Peace"
+      },
+      {
+        "id": 333,
+        "category": "community service",
+        "title": "Soup Kitchen Volunteer",
+        "description": "Help us serve meals to those in need.",
+        "location": "Hope Center",
+        "date": "May 5, 2023",
+        "time": "17:00",
+        "organizer": "Sam Kind"
+      },
+      {
+        "id": 444,
+        "category": "education",
+        "title": "Coding Bootcamp",
+        "description": "Learn the basics of web development in this free bootcamp.",
+        "location": "Tech Hub",
+        "date": "August 15, 2023",
+        "time": "08:00",
+        "organizer": "Code Academy"
+      },
+      {
+        "id": 555,
+        "category": "arts and culture",
+        "title": "Art Exhibition",
+        "description": "Explore the latest works by local artists.",
+        "location": "City Gallery",
+        "date": "September 12, 2023",
+        "time": "18:00",
+        "organizer": "Art Society"
+      },
+      {
+        "id": 666,
+        "category": "sports",
+        "title": "Charity Run",
+        "description": "Participate in our 5K run to raise funds for local charities.",
+        "location": "Riverfront Park",
+        "date": "October 8, 2023",
+        "time": "07:00",
+        "organizer": "Run for Hope"
+      },
+      {
+        "id": 777,
+        "category": "technology",
+        "title": "Tech Meetup",
+        "description": "Network with tech enthusiasts and professionals.",
+        "location": "Innovation Center",
+        "date": "November 22, 2023",
+        "time": "18:30",
+        "organizer": "Tech Connect"
+      },
+      {
+        "id": 888,
+        "category": "music",
+        "title": "Jazz Night",
+        "description": "Enjoy live jazz performances by local bands.",
+        "location": "Blue Note Club",
+        "date": "December 1, 2023",
+        "time": "20:00",
+        "organizer": "Jazz Society"
+      },
+      {
+        "id": 999,
+        "category": "environment",
+        "title": "Tree Planting Day",
+        "description": "Join us to plant trees and help the environment.",
+        "location": "Green Valley",
+        "date": "March 21, 2024",
+        "time": "09:00",
+        "organizer": "Eco Warriors"
+      },
+      {
+        "id": 1010,
+        "category": "animal welfare",
+        "title": "Bird Watching Tour",
+        "description": "Learn about local bird species on this guided tour.",
+        "location": "Wetland Reserve",
+        "date": "May 3, 2024",
+        "time": "06:00",
+        "organizer": "Ornithology Club"
+      },
+      {
+        "id": 112,
+        "category": "wellness",
+        "title": "Meditation Workshop",
+        "description": "Discover the benefits of meditation in this guided workshop.",
+        "location": "Serenity Center",
+        "date": "June 10, 2023",
+        "time": "14:00",
+        "organizer": "Peaceful Minds"
+      },
+      {
+        "id": 223,
+        "category": "food",
+        "title": "Farmers' Market",
+        "description": "Shop for fresh produce and local goods.",
+        "location": "Downtown Square",
+        "date": "July 18, 2023",
+        "time": "08:00",
+        "organizer": "Local Growers Association"
+      },
+      {
+        "id": 334,
+        "category": "education",
+        "title": "STEM Fair",
+        "description": "Explore interactive exhibits and hands-on activities in science, technology, engineering, and math.",
+        "location": "City Library",
+        "date": "August 25, 2023",
+        "time": "10:00",
+        "organizer": "Education Foundation"
+      },
+      {
+        "id": 445,
+        "category": "community",
+        "title": "Neighborhood Block Party",
+        "description": "Join your neighbors for food, music, and fun activities.",
+        "location": "Maple Street",
+        "date": "September 30, 2023",
+        "time": "16:00",
+        "organizer": "Maple Street Association"
+      },
+      {
+        "id": 556,
+        "category": "health",
+        "title": "Blood Donation Drive",
+        "description": "Donate blood and save lives.",
+        "location": "Community Center",
+        "date": "October 12, 2023",
+        "time": "09:00",
+        "organizer": "Red Cross"
+      },
+      {
+        "id": 667,
+        "category": "arts and culture",
+        "title": "Film Festival",
+        "description": "Watch screenings of independent films from around the world.",
+        "location": "Grand Theater",
+        "date": "November 8, 2023",
+        "time": "18:00",
+        "organizer": "Film Society"
+      },
+      {
+        "id": 778,
+        "category": "sports",
+        "title": "Basketball Tournament",
+        "description": "Compete in our annual 3-on-3 basketball tournament.",
+        "location": "Sports Complex",
+        "date": "December 15, 2023",
+        "time": "10:00",
+        "organizer": "City Sports Club"
+      },
+      {
+        "id": 889,
+        "category": "technology",
+        "title": "Hackathon",
+        "description": "Collaborate with fellow coders to create innovative solutions.",
+        "location": "Tech Lab",
+        "date": "January 22, 2024",
+        "time": "09:00",
+        "organizer": "Innovators Inc."
+      },
+      {
+        "id": 990,
+        "category": "music",
+        "title": "Rock Concert",
+        "description": "Enjoy live performances by local rock bands.",
+        "location": "City Arena",
+        "date": "February 14, 2024",
+        "time": "19:00",
+        "organizer": "Rock Fest"
+      },
+      {
+        "id": 1011,
+        "category": "animal welfare",
+        "title": "Pet Care Workshop",
+        "description": "Learn how to take better care of your pets.",
+        "location": "Pet Lovers Center",
+        "date": "March 29, 2024",
+        "time": "13:00",
+        "organizer": "Happy Pets"
+      }
+
+    ]
+  }
