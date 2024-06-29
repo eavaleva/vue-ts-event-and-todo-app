@@ -1,4 +1,5 @@
-<script setup>
+<script setup lang="ts">
+import { defineComponent } from 'vue';
 import { RouterLink, RouterView } from 'vue-router'
 
 </script>
@@ -9,7 +10,8 @@ import { RouterLink, RouterView } from 'vue-router'
       <div class="wrapper">
         <nav>
           <RouterLink :to="{ name: 'EventList' }">Events</RouterLink> |
-          <RouterLink :to="{ name: 'About' }">About</RouterLink>
+          <RouterLink :to="{ name: 'About' }">About</RouterLink> |
+          <RouterLink :to="{ name: 'Tasks' }">Tasks</RouterLink>
         </nav>
       </div>
     </header>

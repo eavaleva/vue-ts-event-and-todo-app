@@ -54,11 +54,10 @@ export default defineComponent({
 
 <style scoped>
 .sticky-header {
-  position: sticky;
-  top: 0;
+  position: static;
   background-color: transparent;
   z-index: 1000;
-  margin: 10px 0;
+  margin: 4rem 0rem auto;
   padding: 10px 0px;
   text-align: center;
 }
@@ -83,6 +82,7 @@ export default defineComponent({
   font-weight: bold;
   font-family: monospace;
   font-size: large;
+
 }
 
 #page-prev {
