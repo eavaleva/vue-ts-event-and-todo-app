@@ -27,9 +27,6 @@ export interface TodoItem {
   isComplete: boolean;
 }
 
-type TaskType = 'personal' | 'work' | 'miscellaneous'
-type buttonType = 'primary' | 'secondary' | 'success' | 'error'
-
 
 // ** If you want to define Objects, it is best to use interfaces instead of types */
 
